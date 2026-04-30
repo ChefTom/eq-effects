@@ -1,3 +1,5 @@
+EQ Effects → Interface Floor → 00_interface_floor.md
+
 # Interface Floor
 
 ## Overview
@@ -67,3 +69,11 @@ The Interface Floor enables users to:
 - construct mathematical models visually
 - understand system state in real time
 - interact with computation without writing code
+
+---
+
+## Navigation
+
+← [Previous: Output Floor](../06_output_floor/00_output_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Governance Floor](../08_governance_floor/00_governance_floor.md)
