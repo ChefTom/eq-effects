@@ -1,47 +1,74 @@
 # Form Floor
 
-# Mathematical Object
+## Overview
 
-## Definition
+The Form Floor defines how EQ Effects transforms contextual understanding into a structured mathematical representation.
 
-A **Mathematical Object** is the canonical representation of user intent within EQ Effects.
+It is the stage where:
 
-It unifies:
-- conceptual intent
-- formal equations
-- variables and constraints
-- domain context
-- precision requirements
-
----
-
-## Structure (Conceptual)
-
-A Mathematical Object contains:
-
-- **Equation Graph**: relationships between expressions and variables
-- **Variable Registry**: definitions, units, domains
-- **Constraints**: boundary conditions, limits, invariants
-- **Assumptions**: declared or inferred modeling choices
-- **Precision Directives**: required numerical fidelity
-- **Execution Hints**: optional guidance for method selection
-
----
-
-## Properties
-
-- **Deterministic**: same object yields consistent execution
-- **Auditable**: all assumptions and transformations are recorded
-- **Portable**: independent of programming language or environment
-- **Composable**: can be extended or combined with other objects
+- validated context becomes formal structure
+- mathematical relationships are explicitly defined
+- the problem becomes ready for execution
 
 ---
 
 ## Purpose
 
-The Mathematical Object is the **handoff point** between:
+To construct a **Mathematical Object** that:
 
-- human reasoning (intent and form)
-- machine execution (compute and methods)
+- fully represents user intent
+- encodes all necessary relationships and constraints
+- is suitable for governed execution
 
-It ensures that computation is driven by **structured meaning**, not by ad hoc code.
+---
+
+## Role in the System
+
+The Form Floor sits between:
+
+- **Context Floor (meaning and validation)**
+- **Execution Floor (computation and solving)**
+
+It converts semantic understanding into formal mathematical structure.
+
+---
+
+## Core Components
+
+1. **Mathematical Object**
+2. **Equation Graph**
+3. **Variable Registry**
+4. **Boundary Conditions**
+5. **Precision Requirements**
+
+These components collectively define the structure of the problem.
+
+---
+
+## Characteristics
+
+- deterministic
+- explicit
+- structured
+- domain-aware
+
+---
+
+## Design Principle
+
+All mathematical problems must be represented in a form that is:
+
+- complete
+- consistent
+- interpretable by the system
+- independent of programming language
+
+---
+
+## Outcome
+
+The Form Floor produces a **fully structured mathematical representation** that:
+
+- preserves intent
+- supports execution
+- enables transparent results
