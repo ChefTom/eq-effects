@@ -242,4 +242,4 @@ It is a redefinition of the relationship between human reasoning and machine com
 
 ## Recommended Next Reading
 
-→ [`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)  
+[`00_overview/00_reading_path.md`](00_overview/00_reading_path.md)
