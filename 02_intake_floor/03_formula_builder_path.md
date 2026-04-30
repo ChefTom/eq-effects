@@ -70,7 +70,7 @@ The Structured Formula Builder Path provides the **formal backbone** of the math
 
 ## Navigation
 
-↓ [Previous](01_multipath_conversation_builder.md)  
+↓ [Previous](02_conceptual_conversation_path.md)  
 ⌂ [Reading Path](../00_overview/00_reading_path.md)  
 ⇧ [Floor Index](00_intake_floor.md)  
-↑ [Next](03_formula_builder_path.md)
+↑ [Next](04_contextual_box.md)
