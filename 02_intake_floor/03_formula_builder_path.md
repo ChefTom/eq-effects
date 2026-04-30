@@ -65,3 +65,12 @@ The system:
 ## Outcome
 
 The Structured Formula Builder Path provides the **formal backbone** of the mathematical object.
+
+---
+
+## Navigation
+
+↓ [Previous](01_multipath_conversation_builder.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↑ [Next](03_formula_builder_path.md)
