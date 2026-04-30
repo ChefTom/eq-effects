@@ -26,12 +26,18 @@ EQ Effects is not a numerical solver, not a programming language, and not an imp
 ## Core Principle
 The software is not the solver. The computer is the solver. EQ Effects governs the path from intent to execution-ready form and transparent outcomes.
 
+## Key Differentiator
+
+EQ Effects allows users to work at the level of conceptual reasoning without requiring translation into code.
+
+Mathematical intent is captured directly and executed by the system, preserving meaning and reducing abstraction loss.
+
 # Reading Path
 
 EQ Effects is organized as a layered system (“floors”).  
 Each floor builds on the previous to move from **intent → form → execution → result**.
 
-Recommended order:
+## Recommended order:
 1. `00_overview/00_reading_path.md`
 2. `01_foundation_floor/00_foundation_floor.md`
 3. `02_intake_floor/00_intake_floor.md`
