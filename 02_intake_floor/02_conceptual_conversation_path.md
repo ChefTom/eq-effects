@@ -73,3 +73,12 @@ The Conceptual Conversation Path ensures that:
 - user intent is captured directly
 - reasoning is preserved
 - the system aligns execution with the original objective
+
+---
+
+## Navigation
+
+↑ [Up: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↓ [Next: Formula Builder Path](03_formula_builder_path.md)
