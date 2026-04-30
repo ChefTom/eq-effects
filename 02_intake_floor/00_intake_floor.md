@@ -1,3 +1,5 @@
+EQ Effects → Intake Floor → 00_intake_floor.md
+
 # Intake Floor
 
 ## Overview
@@ -64,5 +66,6 @@ The Intake Floor produces a **complete, structured representation of intent** th
 
 ## Navigation
 
-← [Back: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+← [Previous: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+↑ [README](../README.md)  
 → [Next: Context Floor](../03_context_floor/00_context_floor.md)
