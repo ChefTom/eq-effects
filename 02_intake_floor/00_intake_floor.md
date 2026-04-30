@@ -64,8 +64,10 @@ The Intake Floor produces a **complete, structured representation of intent** th
 - mathematical object construction
 - execution preparation
 
+---
+
 ## Navigation
 
-← [Previous: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
-↑ [README](../README.md)  
-→ [Next: Context Floor](../03_context_floor/00_context_floor.md)
+↑ [Up: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+↓ [Start: Multipath Conversation Builder](01_multipath_conversation_builder.md)
