@@ -13,36 +13,36 @@ This repository is documentation-first. It is intended to be read in sequence.
    - Why the system exists
    - Core thesis and operating model
 
-2. **Intake Floor**
+2. **[`intake floor`](02_intake_floor/00_intake_floor.md)**
    - Multipath Conversation Builder
    - Conceptual input, structured math input, contextual state
 
-3. **Context Floor**
+3. **[`context floor`](03_context_floor/00_context_floor.md)**
    - How meaning is captured
    - Assumptions, units, constraints, and ambiguity resolution
 
-4. **Form Floor**
+4. **[`form floor`](04_form_floor/00_form_floor.md)  **
    - Mathematical Object
    - Equation Graph, Variable Registry, Boundary Conditions
 
-5. **Execution Floor**
+5. **[`execution floor`](05_execution_floor/00_execution_floor.md)**
    - Computer as Solver
    - Method and library selection
    - Compute mapping and transparency
 
-6. **Output Floor**
+6. **[`output floor`](06_output_floor/00_output_floor.md)**
    - Rich Result Package
    - Process trace, validation, replayability
 
-7. **Interface Floor**
+7. **[`interface floor`](07_interface_floor/00_interface_floor.md)  **
    - Three-pane interaction model
    - User-facing workflow
 
-8. **Governance Floor**
+8. **[`governance floor`](../08_governance_floor/00_governance_floor.md)**
    - Identity, audit, precision governance
    - Reproducibility and non-proprietary boundaries
 
-9. **Examples**
+9. **[`examples`](../09_examples/00_examples_index.md)**
    - End-to-end walkthroughs demonstrating system behavior
 
 ---
