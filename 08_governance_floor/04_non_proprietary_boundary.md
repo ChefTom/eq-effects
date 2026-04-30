@@ -1,5 +1,11 @@
 # Non-Proprietary Boundary
 
-This repository is intentionally non-proprietary.
+This repository defines architectural concepts and system behavior.
 
-It documents architecture, terminology, and public concepts without disclosing implementation internals.
+It does not disclose:
+- execution algorithms
+- internal orchestration logic
+- optimization strategies
+- hardware-specific mappings
+
+The goal is to communicate system design without exposing implementation details.
