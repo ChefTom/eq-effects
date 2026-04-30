@@ -1,37 +1,38 @@
-# Execution Contract
+# Execution Constraints
 
 ## Overview
 
-The Execution Contract defines the responsibilities and guarantees of the execution system.
+Execution Constraints define the conditions under which EQ Effects performs computation.
+
+They ensure that execution remains aligned with system design and user intent.
 
 ---
 
-## Inputs
+## Purpose
 
-Execution receives:
+To ensure that:
 
-- Mathematical Object
-- Precision requirements
-- Contextual constraints
-
----
-
-## Guarantees
-
-Execution must:
-
-- preserve mathematical structure
-- respect constraints and assumptions
-- apply appropriate methods
-- produce structured outputs
+- computation preserves mathematical structure
+- constraints and assumptions are respected
+- execution remains consistent and reproducible
 
 ---
 
-## Prohibitions
+## System Behavior
 
-Execution must not:
+During execution, the system:
 
-- alter intent
+- operates on the Mathematical Object as defined
+- applies selected methods without altering intent
+- respects precision and domain constraints
+
+---
+
+## Limitations
+
+Execution does not:
+
+- modify user-defined intent
 - introduce undocumented transformations
 - violate defined constraints
 
@@ -39,8 +40,8 @@ Execution must not:
 
 ## Outcome
 
-The Execution Contract ensures that computation is:
+Execution Constraints ensure that computation remains:
 
 - controlled
 - predictable
-- aligned with system design
+- aligned with the system’s governing principles
