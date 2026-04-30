@@ -1,3 +1,4 @@
+EQ Effects → Foundation Floor → 00_foundation_floor.md
 # Foundation Floor
 
 ## Overview
@@ -76,9 +77,8 @@ to:
 > intent-driven, governed execution
 
 ---
-
 ## Navigation
 
-← [Previous: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+← [Previous: README](../README.md)  
 ↑ [README](../README.md)  
-→ [Next: Context Floor](../03_context_floor/00_context_floor.md)
+→ [Next: Intake Floor](../02_intake_floor/00_intake_floor.md)
