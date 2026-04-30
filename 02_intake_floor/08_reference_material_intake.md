@@ -77,3 +77,12 @@ Instead, it enriches those paths with external mathematical context.
 ## Outcome
 
 Reference Material Intake allows EQ Effects to incorporate supporting evidence into the mathematical workflow while preserving the user’s own problem definition.
+
+---
+
+## Navigation
+
+↓ [Previous](07_domain_style_selection.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↑ [Next](09_shared_input_context.md)
