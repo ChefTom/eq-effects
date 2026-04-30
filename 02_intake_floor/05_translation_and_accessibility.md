@@ -61,3 +61,12 @@ Translation and accessibility mechanisms ensure that:
 - users can work in their native reasoning model
 - the system adapts to the user
 - mathematical intent is preserved
+
+---
+
+## Navigation
+
+↓ [Previous](04_contextual_box.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↑ [Next](06_input_flexibility.md)
