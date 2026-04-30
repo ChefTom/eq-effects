@@ -2,68 +2,94 @@
 
 ## Overview
 
-EQ Effects does not return a single answer.
+The Rich Result Package is the primary output of EQ Effects.
 
-It returns a **Rich Result Package** that captures both the **result** and the **process that produced it**.
+It represents a complete, structured record of both the result and the process that produced it.
+
+---
+
+## Purpose
+
+To provide users with:
+
+- final results
+- execution context
+- validation information
+- reproducibility
 
 ---
 
 ## Components
 
-### 1. Final Result
-- Numerical or symbolic outcome
-- Units and interpretation context
+### 1. Result
+- computed values
+- associated units and context
 
-### 2. Process Record
-- selected methods and libraries
+---
+
+### 2. Process Trace
+- method selection
 - execution pathway
-- intermediate transformations
+- transformations applied
+
+---
 
 ### 3. Assumptions and Constraints
 - explicit modeling decisions
-- inferred constraints
-- domain-specific considerations
+- inferred conditions
+
+---
 
 ### 4. Validation and Warnings
-- dimensional checks
-- consistency validation
-- sensitivity indicators
-
-### 5. Precision and Fidelity
-- numerical precision used
-- regions of elevated precision
-- potential error bounds
-
-### 6. Execution Mapping
-- compute resources utilized
-- distribution across hardware
-- performance characteristics (high-level)
-
-### 7. Replayability
-- the ability to re-run the computation
-- consistent reproduction of results
-- traceable lineage of changes
+- consistency checks
+- potential issues or limitations
 
 ---
 
-## Why This Matters
-
-Traditional systems provide:
-> input → answer
-
-EQ Effects provides:
-> intent → structured object → governed execution → transparent result
-
-This enables:
-- scientific reproducibility
-- auditability
-- deeper understanding of outcomes
-- trust in computational processes
+### 5. Precision Information
+- numerical accuracy
+- areas of increased sensitivity
 
 ---
 
-## Result
+### 6. Execution Context
+- high-level compute usage
+- execution characteristics
 
-The output is not just a value.
+---
 
-It is a **complete, inspectable record of reasoning and execution**.
+### 7. Replay Data
+- structured information required to reproduce the result
+
+---
+
+## Characteristics
+
+- structured
+- comprehensive
+- transparent
+- reproducible
+
+---
+
+## Importance
+
+The Rich Result Package transforms output from:
+
+> a single answer
+
+to:
+
+> a complete computational artifact
+
+---
+
+## Outcome
+
+Users receive not only results, but the full context needed to:
+
+- understand
+- validate
+- refine
+- reproduce
+their computations
