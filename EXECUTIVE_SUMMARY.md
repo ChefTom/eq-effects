@@ -239,3 +239,7 @@ while the system ensures that:
 This is not an incremental improvement.
 
 It is a redefinition of the relationship between human reasoning and machine computation.
+
+## Recommended Next Reading
+
+→ [`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)  
