@@ -1,3 +1,5 @@
+EQ Effects → Governance Floor → 00_governance_floor.md
+
 # Governance Floor
 
 ## Overview
@@ -74,3 +76,12 @@ The Governance Floor ensures that EQ Effects operates as a:
 - reproducible
 
 computational system
+
+---
+
+## Navigation
+
+← [Previous: Interface Floor](../07_interface_floor/00_interface_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Examples](../09_examples/00_examples_index.md)
+
