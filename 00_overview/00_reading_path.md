@@ -21,7 +21,7 @@ This repository is documentation-first. It is intended to be read in sequence.
    - How meaning is captured
    - Assumptions, units, constraints, and ambiguity resolution
 
-4. **[`form floor`](04_form_floor/00_form_floor.md)  **
+4. **[`form floor`](04_form_floor/00_form_floor.md)**
    - Mathematical Object
    - Equation Graph, Variable Registry, Boundary Conditions
 
@@ -34,7 +34,7 @@ This repository is documentation-first. It is intended to be read in sequence.
    - Rich Result Package
    - Process trace, validation, replayability
 
-7. **[`interface floor`](07_interface_floor/00_interface_floor.md)  **
+7. **[`interface floor`](07_interface_floor/00_interface_floor.md)**
    - Three-pane interaction model
    - User-facing workflow
 
