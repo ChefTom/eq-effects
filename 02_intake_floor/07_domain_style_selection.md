@@ -44,3 +44,12 @@ The system uses this selection to:
 ## Outcome
 
 Users can guide system behavior without leaving the unified input model.
+
+---
+
+## Navigation
+
+↓ [Previous](06_input_flexibility.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↑ [Next](08_reference_material_intake.md)
