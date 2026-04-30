@@ -9,7 +9,7 @@ This repository is documentation-first. It is intended to be read in sequence.
 
 ## Recommended Order
 
-1. **Foundation Floor**
+1. **[`01_foundation_floor/00_foundation_floor.md`](foundation floor)**
    - Why the system exists
    - Core thesis and operating model
 
