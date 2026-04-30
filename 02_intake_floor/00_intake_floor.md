@@ -69,5 +69,4 @@ The Intake Floor produces a **complete, structured representation of intent** th
 ## Navigation
 
 ⌂ [Reading Path](../00_overview/00_reading_path.md)  
-↓ [Start: Multipath Conversation Builder](01_multipath_conversation_builder.md)  
-→ [Next Floor: Context Floor](../03_context_floor/00_context_floor.md)
+↑ [Start: Multipath Conversation Builder](01_multipath_conversation_builder.md)
