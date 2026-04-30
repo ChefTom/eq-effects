@@ -65,5 +65,5 @@ By the end of this reading path, the reader should understand:
 - how results are returned with full transparency
 
 ## Recommended Next Read
-[`01_foundation_floor/00_foundation_floor.md`](01_foundation_floor/00_foundation_floor.md)  
+**[`foundation_floor`](01_foundation_floor/00_foundation_floor.md)** 
 
