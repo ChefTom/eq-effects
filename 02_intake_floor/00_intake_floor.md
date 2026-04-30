@@ -61,3 +61,8 @@ The Intake Floor produces a **complete, structured representation of intent** th
 - context formation
 - mathematical object construction
 - execution preparation
+
+## Navigation
+
+← [Back: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+→ [Next: Context Floor](../03_context_floor/00_context_floor.md)
