@@ -122,3 +122,11 @@ Shared Input Context enables EQ Effects to support:
 - distributed problem definition
 
 while preserving structure, traceability, and reproducibility.
+
+---
+
+## Navigation
+
+↓ [Previous](08_reference_material_intake.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)
