@@ -1,3 +1,5 @@
+EQ Effects → Execution Floor → 00_execution_floor.md
+
 # Execution Floor
 
 ## Overview
@@ -68,3 +70,11 @@ The Execution Floor performs the computation in a way that:
 - preserves intent
 - ensures correctness
 - produces transparent and reproducible results
+
+---
+
+## Navigation
+
+← [Previous: Form Floor](../04_form_floor/00_form_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Output Floor](../06_output_floor/00_output_floor.md)
