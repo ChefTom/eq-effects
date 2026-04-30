@@ -1,3 +1,5 @@
+EQ Effects → Output Floor → 00_output_floor.md
+
 # Output Floor
 
 ## Overview
@@ -66,3 +68,11 @@ The Output Floor ensures that computation results are:
 
 - not just values
 - but fully contextualized artifacts that support understanding and reuse
+
+---
+
+## Navigation
+
+← [Previous: Execution Floor](../05_execution_floor/00_execution_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Interface Floor](../07_interface_floor/00_interface_floor.md)
