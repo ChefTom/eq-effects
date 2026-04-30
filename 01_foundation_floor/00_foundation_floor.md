@@ -79,5 +79,6 @@ to:
 
 ## Navigation
 
-← [Back to README](../README.md)  
-→ [Next: Intake Floor](../02_intake_floor/00_intake_floor.md)
+← [Previous: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Context Floor](../03_context_floor/00_context_floor.md)
