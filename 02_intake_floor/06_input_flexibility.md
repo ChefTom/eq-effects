@@ -82,3 +82,12 @@ Input flexibility enables users to:
 - focus on reasoning and modeling
 - avoid unnecessary abstraction layers
 - maintain alignment between intent and execution
+
+---
+
+## Navigation
+
+↓ [Previous](05_translation_and_accessibility.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↑ [Next](07_domain_style_selection.md)
