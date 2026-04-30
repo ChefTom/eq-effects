@@ -1,76 +1,63 @@
 # Intake Floor
 
-# Multipath Conversation Builder
-
 ## Overview
 
-EQ Effects introduces a **Multipath Conversation Builder** for intake.
+The Intake Floor defines how users express mathematical intent within EQ Effects.
 
-Users are not constrained to a single input format.  
-Instead, they can express work through **multiple synchronized paths**:
+It replaces traditional input models with a **flexible, multi-path system** that allows users to operate at the level of:
 
-1. **Conceptual Conversation**
-2. **Structured Mathematical Input**
-3. **Contextual State (Contextual Box)**
+- conceptual reasoning
+- formal mathematical structure
+- contextual understanding
 
-These paths converge into a single governed mathematical object.
-
----
-
-## 1. Conceptual Conversation Path
-
-Users describe intent in near-natural language:
-
-- goals and objectives
-- domain context
-- expected behavior
-- constraints and edge cases
-- uncertainty and approximations
-
-Example (conceptual, not prescriptive):
-> Model diffusion behavior with higher fidelity near boundary regions.
-
-This path captures **intent**, not implementation.
+These inputs are unified into a coherent representation without requiring translation into programming constructs.
 
 ---
 
-## 2. Structured Formula Builder Path
+## Purpose
 
-Users define formal elements:
+The Intake Floor ensures that:
 
-- equations and expressions
-- variables and symbols
-- units and dimensions
-- boundary and initial conditions
-- matrix/tensor structures
-
-This path captures **mathematical form**.
+- users are not constrained to a single input modality
+- mathematical intent is preserved from the outset
+- ambiguity is identified and resolved early
+- all input contributes to a structured mathematical object
 
 ---
 
-## 3. Contextual Box
+## Structure
 
-The Contextual Box maintains a live state of:
+The Intake Floor consists of three primary components:
 
-- variables and definitions
-- assumptions and constraints
-- units and dimensional consistency
-- domain classification
-- precision expectations
+1. **Multipath Conversation Builder**
+2. **Conceptual Conversation Path**
+3. **Structured Formula Builder Path**
+4. **Contextual Box**
 
-It acts as a **semantic bridge** between language and mathematics.
+These components operate simultaneously and are continuously synchronized.
 
 ---
 
 ## Key Characteristics
 
-- **Non-linear input**: users can move between paths at any time
-- **No forced coding**: translation to code is not required
-- **Incremental refinement**: the system asks for clarification when needed
-- **Domain flexibility**: applicable across physics, engineering, finance, and beyond
+- **Non-linear interaction**  
+  Users can move between conceptual and formal input freely.
+
+- **Incremental refinement**  
+  Input can be partial and iteratively improved.
+
+- **Domain alignment**  
+  Users operate in the language and structure of their field.
+
+- **No forced translation**  
+  Users are not required to convert intent into code.
 
 ---
 
 ## Outcome
 
-The Multipath Conversation Builder produces a **coherent, unified intent model** that feeds directly into mathematical structuring and execution.
+The Intake Floor produces a **complete, structured representation of intent** that feeds directly into:
+
+- context formation
+- mathematical object construction
+- execution preparation
