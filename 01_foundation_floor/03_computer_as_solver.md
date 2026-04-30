@@ -1,39 +1,71 @@
 # Computer as Solver
 
-## Summary
+## Overview
 
-EQ Effects separates **mathematical intent** from **execution mechanics**.
+EQ Effects separates the definition of a problem from the mechanics of solving it.
 
-Traditional environments require users to:
-- translate intent into code
-- select numerical methods
-- manage compute constraints
-- interpret outputs with limited transparency
+Users define **what** is to be computed.  
+The system governs **how** it is computed.
 
-EQ Effects inverts this model.
+---
 
 ## Principle
 
+The computer is responsible for solving.
+
+The system ensures that:
+- the problem is correctly defined
+- execution is appropriately selected
+- results are produced with transparency
+
+---
+
+## User Role
+
 The user defines:
-- the **mathematical form**
-- the **domain context**
-- the **constraints and assumptions**
-- the **desired accuracy or precision**
+- equations and relationships
+- constraints and assumptions
+- domain context
+- precision requirements
+
+The user does not:
+- write solver implementations
+- manage execution pipelines
+- select low-level compute strategies
+
+---
+
+## System Role
 
 The system:
-- constructs a governed mathematical object
+- constructs a mathematical object
 - selects appropriate methods and libraries
-- maps execution to available compute (CPU, GPU, distributed, or specialized)
-- performs the solve
+- maps computation to available resources
+- governs execution
 
-**The computer becomes the solver.**  
-**The system governs how the solve is performed.**
+---
+
+## Execution Model
+
+Execution is:
+- method-agnostic
+- resource-aware
+- traceable
+- reproducible
+
+---
 
 ## Implications
 
-- Users operate at the level of **truth modeling**, not code translation
-- Execution is **deterministic and auditable**
-- Precision and method selection are **explicit and traceable**
-- Results include both **outcomes and process**
+- separation of intent and execution
+- consistent behavior across domains
+- reduced dependency on programming expertise
+- increased trust in computational outcomes
 
-This model enables consistent reasoning across domains without forcing users into a specific programming paradigm.
+---
+
+## Outcome
+
+The computer becomes the execution engine.
+
+The system ensures that execution aligns with defined intent.
