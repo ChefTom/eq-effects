@@ -60,3 +60,12 @@ The Multipath Conversation Builder produces a **coherent intent model** that:
 - preserves meaning
 - aligns with mathematical structure
 - prepares for execution without requiring code
+
+---
+
+## Navigation
+
+↑ [Up: Foundation Floor](../01_foundation_floor/00_foundation_floor.md)  
+⌂ [Reading Path](../00_overview/00_reading_path.md)  
+⇧ [Floor Index](00_intake_floor.md)  
+↓ [Next: Conceptual Conversation Path](02_conceptual_conversation_path.md)
