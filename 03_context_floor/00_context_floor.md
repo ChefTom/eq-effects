@@ -1,3 +1,5 @@
+EQ Effects → Context Floor → 00_context_floor.md
+
 # Context Floor
 
 ## Overview
@@ -62,3 +64,11 @@ The Context Floor produces a **validated contextual state** that ensures:
 - mathematical representations are meaningful
 - execution decisions are appropriate
 - results are interpretable and trustworthy
+
+---
+
+## Navigation
+
+← [Previous: Intake Floor](../02_intake_floor/00_intake_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Form Floor](../04_form_floor/00_form_floor.md)
