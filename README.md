@@ -38,16 +38,25 @@ EQ Effects is organized as a layered system (“floors”).
 Each floor builds on the previous to move from **intent → form → execution → result**.
 
 ## Recommended order:
-1. `00_overview/00_reading_path.md`
-2. `01_foundation_floor/00_foundation_floor.md`
-3. `02_intake_floor/00_intake_floor.md`
-4. `03_context_floor/00_context_floor.md`
-5. `04_form_floor/00_form_floor.md`
-6. `05_execution_floor/00_execution_floor.md`
-7. `06_output_floor/00_output_floor.md`
-8. `07_interface_floor/00_interface_floor.md`
-9. `08_governance_floor/00_governance_floor.md`
-10. `09_examples/00_examples_index.md`
+## Start Here
+
+→ [`EXECUTIVE_SUMMARY.md`](EXECUTIVE_SUMMARY.md)  
+→ [`00_overview/00_reading_path.md`](00_overview/00_reading_path.md)
+
+---
+
+## Recommended Reading Order
+
+1. [`00_overview/00_reading_path.md`](00_overview/00_reading_path.md)  
+2. [`01_foundation_floor/00_foundation_floor.md`](01_foundation_floor/00_foundation_floor.md)  
+3. [`02_intake_floor/00_intake_floor.md`](02_intake_floor/00_intake_floor.md)  
+4. [`03_context_floor/00_context_floor.md`](03_context_floor/00_context_floor.md)  
+5. [`04_form_floor/00_form_floor.md`](04_form_floor/00_form_floor.md)  
+6. [`05_execution_floor/00_execution_floor.md`](05_execution_floor/00_execution_floor.md)  
+7. [`06_output_floor/00_output_floor.md`](06_output_floor/00_output_floor.md)  
+8. [`07_interface_floor/00_interface_floor.md`](07_interface_floor/00_interface_floor.md)  
+9. [`08_governance_floor/00_governance_floor.md`](08_governance_floor/00_governance_floor.md)  
+10. [`09_examples/00_examples_index.md`](09_examples/00_examples_index.md)
 
 The system is designed to be read linearly, but each floor stands on its own.
 
