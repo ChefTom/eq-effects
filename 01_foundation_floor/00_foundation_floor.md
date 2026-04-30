@@ -74,3 +74,10 @@ The Foundation Floor establishes the shift from:
 to:
 
 > intent-driven, governed execution
+
+---
+
+## Navigation
+
+← [Back to README](../README.md)  
+→ [Next: Intake Floor](../02_intake_floor/00_intake_floor.md)
