@@ -72,3 +72,11 @@ The Form Floor produces a **fully structured mathematical representation** that:
 - preserves intent
 - supports execution
 - enables transparent results
+
+---
+
+## Navigation
+
+← [Previous: Form Floor](../04_form_floor/00_form_floor.md)  
+↑ [README](../README.md)  
+→ [Next: Output Floor](../06_output_floor/00_output_floor.md)
